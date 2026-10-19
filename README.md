@@ -111,13 +111,12 @@ I use GitHub to document practical learning and engineering projects. My stronge
   Only include real, publicly verifiable features and working URLs.
 -->
 
-## GitHub Activity
+## 📊 GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/Logoti?tab=overview">
-    <img width="100%" alt="Artur's GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Logoti&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=38BDF8&amp;point=2DD4BF&amp;area_color=0E7490&amp;area=true&amp;hide_border=true" />
-  </a>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Logoti&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logoti&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117" />
+</p>
 
 <p align="center"><a href="https://github.com/Logoti?tab=overview">View contribution history on GitHub ↗</a></p>
 
