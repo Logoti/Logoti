@@ -9,7 +9,7 @@
   <img
     width="100%"
     alt="Artur Cardoso Morais — Java Back-End FOCUS and Full Stack Development"
-    src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0B1220,50:123D5A,100:176B9B&amp;text=ARTUR%20CARDOSO%20MORAIS&amp;fontColor=F8FAFC&amp;fontSize=37&amp;fontAlignY=37&amp;animation=fadeIn&amp;desc=JAVA%20BACK-END%20%7C%20FULL%20STACK%20DEVELOPMENT&amp;descAlignY=59&amp;descSize=16&amp;descColor=CDEAFB"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0B1220,50:123D5A,100:176B9B&amp;text=ARTUR%20CARDOSO%20MORAIS&amp;fontColor=F8FAFC&amp;fontSize=37&amp;fontAlignY=37&amp;animation=fadeIn&amp;desc=JAVA%20BACK-END FOCUS %20%7C%20FULL%20STACK%20DEVELOPMENT&amp;descAlignY=59&amp;descSize=16&amp;descColor=CDEAFB"
   />
   <a href="https://git.io/typing-svg">
     <img
