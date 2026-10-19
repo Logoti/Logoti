@@ -27,7 +27,7 @@
 
 </div>
 
-About Me
+## About Me
 I'm Artur Cardoso Morais, an Information Systems undergraduate at the Federal University of Uberlândia (UFU), Brazil.
 
 My primary direction is Java Back-End Engineering: designing APIs, working with relational data, securing applications, writing tests, and building maintainable systems. I'm also developing a Full Stack perspective with Angular and TypeScript, supported by Cloud and DevOps fundamentals.
