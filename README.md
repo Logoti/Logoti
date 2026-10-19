@@ -128,5 +128,5 @@ I use GitHub to document practical learning and engineering projects. My stronge
 <div align="center">
   <strong>Back-End depth. End-to-end perspective. Engineering first.</strong>
   <br />
-  <sub>Brazil · <a href="https://www.linkedin.com/in/artur-cardoso-morais-330865350/">LinkedIn</a> · <a href="https://github.com/Logoti?tab=repositories">Repositories</a></sub>
+  <sub>Brazil · <a href="https://www.linkedin.com/in/artur-cardoso-morais-330865350/">LinkedIn</a> · <a href="mailto:arturcardoso77c@gmail.com">Email</a> · <a href="https://github.com/Logoti?tab=repositories">Repositories</a></sub>
 </div>
