@@ -32,7 +32,8 @@ I'm Artur Cardoso Morais, an Information Systems undergraduate at the Federal Un
 My main technical direction is Java Back-End Engineering, with an emphasis on APIs, relational databases, application security, automated testing, and maintainable software. I'm also expanding my Full Stack perspective through Angular and TypeScript, alongside Cloud and DevOps fundamentals.
 Back-End as a specialization. Full Stack as a capability. Software engineering as the foundation.
 
-🛠️ Tech Stack & Engineering Focus
+## 🛠️ Tech Stack & Engineering Focus
+
 These technologies represent my technical direction and learning roadmap. My repositories show the tools and concepts I've applied in practice.
 
 ☕ Back-End
