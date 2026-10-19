@@ -34,6 +34,7 @@ Back-End as a specialization. Full Stack as a capability. Software engineering a
 
 🛠️ Tech Stack & Engineering Focus
 These technologies represent my technical direction and learning roadmap. My repositories show the tools and concepts I've applied in practice.
+
 ☕ Back-End
 <p>
   <img alt="Java, Spring, and Node.js" src="https://skillicons.dev/icons?i=java,spring,nodejs&amp;theme=dark" />
